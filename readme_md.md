@@ -71,7 +71,15 @@ The system will automatically split your data, train for the epochs defined in `
 * **Video Compression:** Heavy social media compression (like WhatsApp or Twitter) can destroy the high-frequency AI artifacts that the FFT branch relies on, which may reduce detection accuracy in real-world scenarios.
 
 
-Sample Deep Fake gif
+Sample Deep Fake gif -->
+
+
+
+
+
+
+
+
 <img width="600" height="338" alt="deepfakedetection" src="https://github.com/user-attachments/assets/f8424500-7b30-4912-a099-a33e37a4a73d" />
 
 
